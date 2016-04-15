@@ -149,7 +149,7 @@ var TokenBox = React.createClass({
     clear:'both'
   },
   getInitialState: function() {
-    return { tokens: [{text:'something@gmail.com'}], inputText:'' };
+    return { tokens: [], inputText:'' };
   },
   onTokenAdded: function(newToken) {
     newToken=newToken.toLowerCase()

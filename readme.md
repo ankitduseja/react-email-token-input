@@ -1,11 +1,11 @@
 # React Email Token Input
 React Email Token Input is small light weight token input form which replicates gmail like email address input and can be used for email fields.
 ### Demo
-Try out the Demo here:
+Try the [Demo].
 
 ### Features
 - Verifies email address format.
-- Supports pasting of multiple emails. (Should be seperated either by , or space.)
+- Supports pasting of multiple emails. (Should be separated either by , or space.)
 - Pressing backspace highlights the last element and pressing it again will delete the highlighted element.
 
 ### Installation
@@ -39,5 +39,5 @@ Developed by [Ankit Duseja]
 
 
 
-
+  [Demo]: <http://www.ankitduseja.com/react-email-token-input/>
    [Ankit Duseja]: <http://ankitduseja.com>
