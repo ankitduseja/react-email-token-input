@@ -1,0 +1,20 @@
+{
+  "name": "react-email-token-input",
+  "version": "1.0.0",
+  "description": "React Email Input Box",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "email",
+    "input",
+    "tokeninput"
+  ],
+  "author": "Ankit Duseja",
+  "license": "MIT",
+  "dependencies": {
+    
+  }
+}
